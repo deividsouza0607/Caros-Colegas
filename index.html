@@ -7,7 +7,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+<audio id="somDeFundo" autoplay loop muted">
+    <source src="./src/Video/Skyrim Theme Song - Full (Dovahkiin Song).mp3" type="audio/mpeg">
+    <source src="./src/Video/Skyrim-Theme-Song-Full-_Dovahkiin-Song_.ogg" type="audio/ogg">
+    
+</audio>
 
 <div class="login-container">
         <h2>Digite uma das 3 Senhas para entrar!</h2>
@@ -34,7 +38,27 @@
             <source src="./src/Video/video1.mp4" type="video/mp4">
            
         </video>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const audioPlayer = document.getElementById('somDeFundo');
 
+        // Tenta reproduzir o áudio (o "catch" lida com o bloqueio do navegador)
+        const playPromise = audioPlayer.play();
+
+        if (playPromise !== undefined) {
+            playPromise.then(() => {
+                // Autoplay funcionou. O áudio está tocando (mutado).
+                console.log("Áudio de fundo iniciado com sucesso (mutado).");
+            }).catch(error => {
+                // Autoplay foi bloqueado.
+                console.log("O autoplay foi bloqueado. É necessário um clique do usuário para ligar.");
+                
+                // Opção: Se o autoplay falhar, mostre um botão para que o usuário possa interagir.
+                // CriarElementoBotaoParaInteragir(); 
+            });
+        }
+    });
+</script>
 
     <script src="./src/js/script.js"></script>
      <script src="./src/js/script2.js"></script>

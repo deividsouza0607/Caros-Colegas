@@ -8,7 +8,11 @@
 
 </head>
 <body>
-    
+    <audio id="somDeFundo" autoplay loop muted">
+    <source src="./Video/Street Fighter V - Quando uma música, FAZ TODA A DIFERENÇA_ [979WO00-zHE].mp3" type="audio/mpeg">
+    <source src="./Video/Street Fighter V - Quando uma música, FAZ TODA A DIFERENÇA_ [979WO00-zHE].mp3" type="audio/ogg">
+    Seu navegador não suporta este áudio.
+</audio>
     </div>
     <div id="moeda">
         Compumaquianos!<br>
@@ -23,11 +27,31 @@
 
     <div id="video-background">
         <video autoplay loop muted playsinline>
-            <source src="./Video/video1.mp4" type="video/mp4">
+            <source src="./Video/7020021 Particle Light 3840X2160.mp4" type="video/mp4">
            
         </video>
 
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const audioPlayer = document.getElementById('somDeFundo');
 
+        // Tenta reproduzir o áudio (o "catch" lida com o bloqueio do navegador)
+        const playPromise = audioPlayer.play();
+
+        if (playPromise !== undefined) {
+            playPromise.then(() => {
+                // Autoplay funcionou. O áudio está tocando (mutado).
+                console.log("Áudio de fundo iniciado com sucesso (mutado).");
+            }).catch(error => {
+                // Autoplay foi bloqueado.
+                console.log("O autoplay foi bloqueado. É necessário um clique do usuário para ligar.");
+                
+                // Opção: Se o autoplay falhar, mostre um botão para que o usuário possa interagir.
+                // CriarElementoBotaoParaInteragir(); 
+            });
+        }
+    });
+</script>
       <script src="./js/script.js"></script>
         <script src="./js/script2.js"></script>
    
