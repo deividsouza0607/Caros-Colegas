@@ -77,7 +77,7 @@ Suas Fantasias makes incríveis e a Caravan.<br><br>
 <mark>Julio:</mark>  Músico nato. Sempre que começávamos a ensaiar, <br>
 o universo conspirava com algum acontecimento próximo kkk.<br><br>
 
-<mark>Wagner:</mark>  Caneta Azul  "Bah! Ah ô meu!" e  a sua moto envenenada.<br>
+<mark>Vagner:</mark>  Caneta Azul  "Bah! Ah ô meu!" e  a sua moto envenenada.<br>
  Esse bebe em festa, tá maluco!<br><br>
 
 <mark>Gabriel Pim:</mark> O Pim Tempus cuturnos e seus Playstation e Xbox irrecuperáveis.<br>
@@ -150,4 +150,5 @@ parece que está ausente em seus próprios pensamentos.<br><br>
             textoRevelado.innerHTML = "Até a Próxima! O assunto JÁ FOI REVELADO. Bora Trabalhar!";
         }
     });
+
 });
