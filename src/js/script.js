@@ -24,7 +24,7 @@ Nome(s)	Homenagem / Bordão Interno<br><br>
 <mark>Marco:</mark>  Obrigado por tudo! Pela oportunidade de conhecer essa
 Família Compumaq! <br> Ainda vamos finalizar o vídeo da obra.<br><br>
 
-<mark>Juliano:</mark>  Outro grande Músico e Vocalista, Mestre do Jiu.<br>
+<mark>Juliano:</mark>  Outro grande Músico e Vocalista, Mestre do Jiu e com seus conselhos inusitados .<br>
  Muitas vendas e comissões para todos!<br><br>
 
  
@@ -38,8 +38,6 @@ Família Compumaq! <br> Ainda vamos finalizar o vídeo da obra.<br><br>
  e seus conhecimentos, inventor do nosso Mascote Loguinho.<br><br>
 	
 <mark>Juliana:</mark> Diuliannnnnaaa "Cafézinhooo!"<br><br>
-
-<mark>Pedro periféricos:</mark> Sózinho isolado com saudade do Micael, mas Joga Valorant!<br><br>
 
 <mark>Léo Estronda:</mark> Michael Maicouuuuu auuuu,ainda <br>
 não aprendeu a dancinha mas um dia vaí!<br><br>
@@ -64,7 +62,7 @@ kkk assim ele pensava. De todos os erros no início e acertos,<br>
  "Não esqueça de olhar nos Logs! Sim, é um caminho, <br>
  se você não sabe por onde começar, é um norte."<br><br>
 
-<mark>Dion:</mark> Oh locoo meu! Sempre salvando os Furby e nos ensinando umas AT.<br>
+<mark>Dion:</mark> Oh locoo meu! Sempre salvando os Furby e nos ensinando umas ADT.<br>
  ("Hoje é um bom dia para vooar com o Drone!").<br><br>
 
 <mark>Mateus Russo:</mark>  Saudade daqueles tempos com a Tr4! Grande músico,<br>
@@ -77,7 +75,7 @@ Suas Fantasias makes incríveis e a Caravan.<br><br>
 <mark>Julio:</mark>  Músico nato. Sempre que começávamos a ensaiar, <br>
 o universo conspirava com algum acontecimento próximo kkk.<br><br>
 
-<mark>Vagner:</mark>  Caneta Azul  "Bah! Ah ô meu!" e  a sua moto envenenada.<br>
+<mark>Wagner:</mark>  Caneta Azul  "Bah! Ah ô meu!"óh os cara! e  a sua moto envenenada.<br>
  Esse bebe em festa, tá maluco!<br><br>
 
 <mark>Gabriel Pim:</mark> O Pim Tempus cuturnos e seus Playstation e Xbox irrecuperáveis.<br>
@@ -108,9 +106,9 @@ e ainda não aprendeu que o Sergey não é um sistema operacional!<br><br>
 <mark>Lidiane:</mark> A Didi! Tem como colocar mais um agendamento! <br>
 (Dava medo, Nossa atleta e medalista.).<br><br>
 
-<mark>Isaabela:</mark> Bom, não tem muito o que falar, é a Bella.<br><br>
+<mark>Isabela:</mark> Bom, não tem muito o que falar, é a Bella.<br><br>
 
-<mark>Ina:</mark>Ina:  Ina  outra cantora nata com seus parabéns no dia certo...<br>
+<mark>Ina:</mark>: Outra cantora nata com seus parabéns no dia certo...<br>
  Muitas histórias deve ter vivido nessa empresa, já é patrimônio.<br><br>
 
 <mark>Augusto:</mark>  Augustus Justus e as caronas em dia de chuva. <br>
@@ -120,7 +118,7 @@ e ainda não aprendeu que o Sergey não é um sistema operacional!<br><br>
 
 <mark>Rodrigo:</mark>  Dinho dizia ele " E a fazenda de Mirtilo, como tá!" <br>
 Ainda não aguenta o Augusto, porém conseguiu uma brecha para descansar <br>
-(diz ele que era cirurgia! Melhoras!).<br><br>
+(diz ele que era cirurgia! já até voltou!Se cura rápido).<br><br>
 
 <mark>Felipe:</mark>  Filipe Banks, quando dizia: “trouxe uma enrrabada minha!<br>
 ”Sabíamos que era coisa séria.<br><br>
@@ -131,7 +129,7 @@ Ainda não aguenta o Augusto, porém conseguiu uma brecha para descansar <br>
 <mark>Gabriel Estoque:</mark> Ainda não sei o que falar dele, não consegui decifrar a linha do seu raciocínio,<br>
 parece que está ausente em seus próprios pensamentos.<br><br>
 
-<mark>Jose Eduardo:</mark> DUDU. Um dia vou achar aquelas fitas do 64, mister do Linux.<br>
+<mark>Jose Eduardo:</mark> DUDU seu dialeto indecifravel, Um dia vou achar aquelas fitas do 64, mister do Linux.<br>
 
                 </p>
                 <p>
@@ -150,5 +148,4 @@ parece que está ausente em seus próprios pensamentos.<br><br>
             textoRevelado.innerHTML = "Até a Próxima! O assunto JÁ FOI REVELADO. Bora Trabalhar!";
         }
     });
-
 });
