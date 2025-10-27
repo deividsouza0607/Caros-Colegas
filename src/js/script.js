@@ -34,13 +34,13 @@ Família Compumaq! <br> Ainda vamos finalizar o vídeo da obra.<br><br>
 <mark>Fernando:</mark>  O cara! Ajudando o pessoal a não cometer tantos erros!<br>
 (Diz que não apoia o PT, mas torce pelo time da cor partidária!).<br><br>
 
-<mark>Lucas:</mark> Internacional! Grande Pai Lucas, Mestre do chimarrão<br>
+<mark>Lucas:</mark> Internacional! Dalê Hermano! Grande Pai Lucas, Mestre do chimarrão<br>
  e seus conhecimentos, inventor do nosso Mascote Loguinho.<br><br>
 	
 <mark>Juliana:</mark> Diuliannnnnaaa "Cafézinhooo!"<br><br>
 
 <mark>Léo Estronda:</mark> Michael Maicouuuuu auuuu,ainda <br>
-não aprendeu a dancinha mas um dia vaí!<br><br>
+não aprendeu a dancinha do michael mas um dia vaí!<br><br>
 
 <mark>Nilva:</mark>  Gratiluz! Sempre resolvendo as graxas de todo mundo!<br><br>
 
@@ -48,13 +48,13 @@ não aprendeu a dancinha mas um dia vaí!<br><br>
  (Como ela diz: usa fone ou coloca uma música decente.)<br><br>
 
 <mark>Marluci:</mark>  Sempre Ouvindo aquele Metal rock, a Lenda das Impressoras junto com a Paula,<br>
- Dion e o Pedro! Chama o Will! <br><br>
+ Dion! Chama o Will! <br><br>
 
 <mark>Paula:</mark>  Ta me tirando! Arruma esses equipamentos no elevador direito.<br>
  (Parceira da Lenda das Impressoras).<br><br>
 
 <mark>Pedro Externo:</mark> Menino Pedro. Dizia ele que nunca <br>
-recolheria uma máquina se quer quando fosse para o externo, <br>
+recolheria uma máquina se quer, quando fosse para o externo, <br>
 kkk assim ele pensava. De todos os erros no início e acertos,<br>
  quem diria que o guri deu Bom!<br><br>
 
@@ -72,10 +72,10 @@ Ilon Musk! E um dia vai a Lagoa Vermelha, Pripyat! Hurra!<br><br>
 <mark>Ivo:</mark>  Mister Crawlin É o Mister, não tem comparação. <br>
 Suas Fantasias makes incríveis e a Caravan.<br><br>
 
-<mark>Julio:</mark>  Músico nato. Sempre que começávamos a ensaiar, <br>
+<mark>Júlio:</mark>  Músico nato. Sempre que começávamos a ensaiar, <br>
 o universo conspirava com algum acontecimento próximo kkk.<br><br>
 
-<mark>Wagner:</mark>  Caneta Azul  "Bah! Ah ô meu!"óh os cara! e  a sua moto envenenada.<br>
+<mark>Vagner:</mark>  Caneta Azul  "Bah! Ah ô meu!"óh os cara! e  a sua moto envenenada.<br>
  Esse bebe em festa, tá maluco!<br><br>
 
 <mark>Gabriel Pim:</mark> O Pim Tempus cuturnos e seus Playstation e Xbox irrecuperáveis.<br>
@@ -92,9 +92,8 @@ mas logo ele vai. Como vamos ficar rico hoje?<br><br>
 
 <mark>Leozinho Bananinha:</mark> E a maldição do Mercúrio Retrógrado.<br><br>
 
-<mark>Mateus Matarazo:</mark> Grande e pequeno, ou anão, ainda não descobrimos ao certo,<br><br>
-
- mas um dia falará  sozinho com a xicara! kkk.<br>
+<mark>Mateus Matarazo:</mark> Grande e pequeno, ou anão, ainda não descobrimos ao certo,<br>
+ mas um dia falará  sozinho com a xicara! kkk.<br><br>
 
 <mark>Cleber:</mark> Grande Kleberson, "Já foi mais fácil!"<br><br>
 
@@ -104,7 +103,7 @@ mas logo ele vai. Como vamos ficar rico hoje?<br><br>
 e ainda não aprendeu que o Sergey não é um sistema operacional!<br><br>
 
 <mark>Lidiane:</mark> A Didi! Tem como colocar mais um agendamento! <br>
-(Dava medo, Nossa atleta e medalista.).<br><br>
+(Dava medo, Nossa atleta e medalista.)<br><br>
 
 <mark>Isabela:</mark> Bom, não tem muito o que falar, é a Bella.<br><br>
 
@@ -114,7 +113,7 @@ e ainda não aprendeu que o Sergey não é um sistema operacional!<br><br>
 <mark>Augusto:</mark>  Augustus Justus e as caronas em dia de chuva. <br>
 (Ainda não aprendeu a dirigir e vai ficar solteiro por muito tempo, pelo jeito)<br><br>
 
-<mark>Lucaw:</mark>  Empreendedor Nato. Se puxando sempre. Cuidado com o Tigrinho!<br><br>
+<mark>Lucaw:</mark>  Empreendedor nato. Se puxando sempre. Cuidado com o Tigrinho!<br><br>
 
 <mark>Rodrigo:</mark>  Dinho dizia ele " E a fazenda de Mirtilo, como tá!" <br>
 Ainda não aguenta o Augusto, porém conseguiu uma brecha para descansar <br>
@@ -148,4 +147,5 @@ parece que está ausente em seus próprios pensamentos.<br><br>
             textoRevelado.innerHTML = "Até a Próxima! O assunto JÁ FOI REVELADO. Bora Trabalhar!";
         }
     });
+
 });
